@@ -1,3 +1,8 @@
 - Bacon
 - Eggs
 - XBox
+- Beef
+- Chicken
+- Fish
+- Vegetables
+- Fruits
